@@ -1,0 +1,30 @@
+.text-center{
+       text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+color: brown;
+  }
+  
+  .bg-red{
+    background: red;
+  }
+  
+  .mx-auto{
+    margin: auto;
+  }
+  
+  .flex{
+    display:flex;
+  } 
+  .flex-col{
+    flex-direction: column;
+  }
+  
+  .items-center{
+    align-items: center;
+  }
+  .container{
+    border: 5px solid brown;
+    border-radius: 10px;
+    margin-right: 450px;
+    margin-left: 450px;
+  }
